@@ -1,0 +1,3 @@
+YouTube Channel ID, Video ID,thumbnail URL, Start Time (UTC+0)
+UC4sNbjqI8yaLeEXMQn0NewA,IeGE_th6YSo,https://i.ytimg.com/vi/IeGE_th6YSo/mqdefault_live.jpg,2022-06-11T12:00:00Z
+UCKmvqlodrjzY6hDc_yI27IA,CBOdxrV0qZA,https://i.ytimg.com/vi/CBOdxrV0qZA/mqdefault_live.jpg,2022-06-11T12:00:00Z
